@@ -9,7 +9,7 @@
 <a href="https://instagram.com/https://www.instagram.com/_danielnunesss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_danielnunesss/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">No momento estudando essas linguagens:</h3>
+<h3 align="left">Linguagens e ferramentas que possuo conhecimento:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,javascript,c&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html,css,django,vue,nextjs)](https://skillicons.dev)
 
